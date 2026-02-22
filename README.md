@@ -9,6 +9,7 @@ The Python code for bibliometric analysis
 	url={http://iopscience.iop.org/article/10.1088/2515-7620/adf0cb},
 	year={2025}
 }
+
 @article{wang2025bibliometric,
   title={Bibliometric exploration of infrastructure and natural hazards research in low and middle income countries toward sustainable development goals},
   author={Wang, Wei and Lu, Boyuan and Xu, Yi and Tekle, Shewandagn Lemma and Toni, Abebe Teklu and Zhang, Xiuling and Li, Yihan and Ajuwon, Oluseye Samuel and Dahoro, Davo Ayuba and Mart{\'\i}nez, Eduard and others},
